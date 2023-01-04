@@ -5,6 +5,9 @@
   padding: 0;
 }
 
+.kategori {
+    display: grid;
+}
 
 .italic {
     font-style: italic;
